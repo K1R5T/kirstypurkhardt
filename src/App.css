@@ -76,7 +76,7 @@ nav{
   flex-direction: column;
   text-align: center;
   /* padding-top: 20%; */
-  width: 2000px;
+  width: auto;
   height: 1100px;
   background-image: url(./img/portfolioBackground.jpeg);
   background-size: cover;

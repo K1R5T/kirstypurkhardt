@@ -5,7 +5,7 @@ export default function Navbar(props) {
     return (
         <div className="navbarContainer">
             <nav className="navbar">
-                <Link to="/">
+                <Link to="/kirstypurkhardt">
                     <h2 className="navwelcome">Welcome</h2>
                 </Link>
                 <ul className="navbarUL">
