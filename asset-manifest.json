@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/kirstypurkhardt/static/css/main.5b911c8b.chunk.css",
+    "main.css": "/kirstypurkhardt/static/css/main.404cf0fc.chunk.css",
     "main.js": "/kirstypurkhardt/static/js/main.54f004cd.chunk.js",
     "main.js.map": "/kirstypurkhardt/static/js/main.54f004cd.chunk.js.map",
     "runtime-main.js": "/kirstypurkhardt/static/js/runtime-main.a4190ded.js",
@@ -8,9 +8,9 @@
     "static/js/2.a3df654a.chunk.js": "/kirstypurkhardt/static/js/2.a3df654a.chunk.js",
     "static/js/2.a3df654a.chunk.js.map": "/kirstypurkhardt/static/js/2.a3df654a.chunk.js.map",
     "index.html": "/kirstypurkhardt/index.html",
-    "precache-manifest.eb52266fd25b8f553c995bd4048d096c.js": "/kirstypurkhardt/precache-manifest.eb52266fd25b8f553c995bd4048d096c.js",
+    "precache-manifest.fd35e9d26a04d4427a4f34deb94936ed.js": "/kirstypurkhardt/precache-manifest.fd35e9d26a04d4427a4f34deb94936ed.js",
     "service-worker.js": "/kirstypurkhardt/service-worker.js",
-    "static/css/main.5b911c8b.chunk.css.map": "/kirstypurkhardt/static/css/main.5b911c8b.chunk.css.map",
+    "static/css/main.404cf0fc.chunk.css.map": "/kirstypurkhardt/static/css/main.404cf0fc.chunk.css.map",
     "static/js/2.a3df654a.chunk.js.LICENSE.txt": "/kirstypurkhardt/static/js/2.a3df654a.chunk.js.LICENSE.txt",
     "static/media/me.jpeg": "/kirstypurkhardt/static/media/me.2060212b.jpeg",
     "static/media/App.css": "/kirstypurkhardt/static/media/projectsbackground.0a13c95d.jpg"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.a4190ded.js",
     "static/js/2.a3df654a.chunk.js",
-    "static/css/main.5b911c8b.chunk.css",
+    "static/css/main.404cf0fc.chunk.css",
     "static/js/main.54f004cd.chunk.js"
   ]
 }
