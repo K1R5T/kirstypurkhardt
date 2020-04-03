@@ -76,8 +76,9 @@ nav{
   flex-direction: column;
   text-align: center;
   /* padding-top: 20%; */
-  /* width: auto;
-  min-height: 900px; */
+  width: auto;
+  min-height: 950px;
+  max-height: 1300px;
   background-image: url(./img/portfolioBackground.jpeg);
   background-size: cover;
 }
