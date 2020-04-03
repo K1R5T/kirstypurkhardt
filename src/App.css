@@ -70,14 +70,14 @@ nav{
 
 /* welcome page css */
 
-.welcomeWrapper{
+.welcomContainer{
   display: flex;
   justify-content: center;
   flex-direction: column;
   text-align: center;
   /* padding-top: 20%; */
-  width: auto;
-  height: 850px;
+  /* width: auto;
+  min-height: 900px; */
   background-image: url(./img/portfolioBackground.jpeg);
   background-size: cover;
 }
