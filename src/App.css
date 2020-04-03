@@ -70,15 +70,15 @@ nav{
 
 /* welcome page css */
 
-.welcomContainer{
+.container{
   display: flex;
   justify-content: center;
   flex-direction: column;
   text-align: center;
   /* padding-top: 20%; */
-  width: auto;
+  /* width: auto;
   min-height: 950px;
-  max-height: 1300px;
+  max-height: 1300px; */
   background-image: url(./img/portfolioBackground.jpeg);
   background-size: cover;
 }
